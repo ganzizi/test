@@ -1,3 +1,3 @@
 <?php
-echo 'win push github';
+echo 'win 2222 push github';
 phpinfo();
