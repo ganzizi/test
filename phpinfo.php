@@ -1,3 +1,3 @@
 <?php
-echo 'test push github';
+echo 'win push github';
 phpinfo();
