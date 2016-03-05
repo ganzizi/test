@@ -1,3 +1,3 @@
 <?php
-echo 'linux 22222 push github';
+echo 'sublime push github';
 phpinfo();
